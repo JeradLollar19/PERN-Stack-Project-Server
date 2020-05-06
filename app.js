@@ -22,4 +22,4 @@ app.use('/user', user);
 
 
 
-app.listen(process.env.PORT, () => console.log(`app is listening on port ${process.env.PORT}`));
+app.listen(process.env.PORT, () => console.log(`App is listening on port ${process.env.PORT}`));
